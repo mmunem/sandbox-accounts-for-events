@@ -18,8 +18,8 @@ max_lease_budget_amount = 1000
 max_lease_period = 7776000
 
 reset_nuke_toggle = "true"
-reset_nuke_template_bucket = "STUB"
-reset_nuke_template_key = "STUB"
+reset_nuke_template_bucket = "daemon-aws-sandbox-artifacts"
+reset_nuke_template_key = "custom-nuke-config.yml"
 
 cloudwatch_dashboard_toggle = "false"
 
